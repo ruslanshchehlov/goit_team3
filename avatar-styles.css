@@ -1,0 +1,19 @@
+
+.button_link button{
+    border-radius: 2px 0 0 2px;
+    border-right: 1px solid #7496b9;
+    height: 30px;
+    border: none;
+	background-color: #7496b9;
+}
+.profile_gift_text {
+	height: 30px;
+	width: 38px;
+}
+.profile_gift_text img{
+
+	width: auto;
+}
+.flat_button {
+	color: white;
+}
